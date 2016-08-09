@@ -1,0 +1,33 @@
+#walrus-showing {
+  display: none;
+}
+
+#panda-showing {
+  display: none;
+}
+
+#lion-showing {
+  display: none;
+}
+
+.clickable-walrus {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-walrus:hover {
+  text-decoration: underline;
+}
+
+.clickable-panda {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-panda:hover {
+  text-decoration: underline;
+}
+
+#background-color-green {
+  background-color: green;
+}
